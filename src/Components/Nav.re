@@ -22,7 +22,7 @@ let make = () => {
   <div>
     <header className=Styles.header>
       <img className=Styles.logo src=logo />
-      <span className=Styles.title> {str("Super Marvel Heroes")} </span>
+      <span className=Styles.title> {str("CaMP")} </span>
       <div className=Styles.search_input_wrapper>
         <input className=Styles.search_input placeholder="search" />
         <button> {str("Search")} </button>

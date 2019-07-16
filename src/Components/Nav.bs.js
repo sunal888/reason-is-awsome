@@ -72,7 +72,7 @@ function Nav(Props) {
                       src: logo
                     }), React.createElement("span", {
                       className: title
-                    }, "Super Marvel Heroes"), React.createElement("div", {
+                    }, "CaMP"), React.createElement("div", {
                       className: search_input_wrapper
                     }, React.createElement("input", {
                           className: search_input,
