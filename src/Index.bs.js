@@ -2,9 +2,9 @@
 
 import * as React from "react";
 import * as ReactDOMRe from "reason-react/src/ReactDOMRe.js";
-import * as Nav$ReasonIsAwesome from "./Components/Nav.bs.js";
+import * as App2$ReasonIsAwesome from "./App2.bs.js";
 
-ReactDOMRe.renderToElementWithId(React.createElement(Nav$ReasonIsAwesome.make, { }), "app");
+ReactDOMRe.renderToElementWithId(React.createElement(App2$ReasonIsAwesome.make, { }), "app");
 
 export {
   

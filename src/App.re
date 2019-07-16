@@ -1,4 +1,4 @@
-type page =
+/* type page =
   | Home
   | Profile;
 
@@ -51,4 +51,4 @@ module App = {
         <a href="#profile"> {str("Profile")} </a>
       </div>,
   };
-};
+}; */
